@@ -1,9 +1,9 @@
-let = "title";
-let = "screens";
-let = "screenPrice";
-let = "rollback";
-let = "fullPrice";
-let = "adaptive";
+let title = "";
+let screens = "";
+let screenPrice = "";
+let rollback = "";
+let fullPrice = "";
+let adaptive = "";
 
 alert(
   "Что вершит судьбу человечества в этом мире? Некое незримое существо или закон, подобно Длани Господней парящей над миром?"
